@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**MaximeThe/maximeThe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<pre>const  MaximeThe = {
+  nom: "Maxime" | "Theneau",
+  code: [Javascript, HTML, CSS, PHP, SQL],
+  interet: [graffiti, Bitcoin, cryptomonnaie],
+}
+</pre>
+<p align="center">
+  <a href="https://maximethe.github.io/" target="blank"><img  src="images/github/envelope-open-text-solid.svg" alt="maximethe" height="30" width="30" /></a>
+  <a href="https://linkedin.com/in/theneau maxime" target="blank"><img src="images/github/linkedin-brands.svg" alt="maximethe" height="30" width="30" /></a>
+  <a href="https://twitter.com/maximethe" target="blank"><img src="images/github/twitter-brands.svg" alt="maximethe" height="30" width="30" /></a>
+<a href="mailto:maxime.t@maximemotivationplusplus.fr" target="blank"><img  src="images/github/a.svg" alt="theneau maxime" height="30" width="30" /></a>
+</p>
