@@ -1,7 +1,6 @@
 <pre>const  MaximeThe = {
   nom: "Maxime" | "Theneau",
-  code: [Javascript, HTML, CSS, PHP, SQL],
-  interet: [graffiti, Bitcoin, cryptomonnaie],
+  code: [React, Javascript, HTML, CSS, PHP, etc..]
 }
 </pre>
 <p align="center">
