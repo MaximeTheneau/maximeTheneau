@@ -1,5 +1,5 @@
 # Theneau Maxime
-## Développeur web à Marseille
+<p align="center"> Développeur web Front End à Marseille </p>
 ![fond Github Theneau Maxime](./images/fond.jpg "fond github Theneau Maxime")
 
 <p align="center">
