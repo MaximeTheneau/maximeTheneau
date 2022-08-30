@@ -1,6 +1,6 @@
 # Theneau Maxime
 ## Développeur web à Marseille
-![fond Github Theneau Maxime](./images/fond.png "fond github Theneau Maxime")
+![fond Github Theneau Maxime](./images/fond.jpg "fond github Theneau Maxime")
 
 <p align="center">
   <a href="mailto:theneau.maxime@gmail.com" target="blank"><img  src="images/github/email.svg" alt="maximethe" height="30" width="30" /></a>
