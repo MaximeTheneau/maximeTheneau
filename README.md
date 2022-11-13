@@ -1,6 +1,7 @@
-# <p align="center"> Theneau Maxime </p>
-## <p align="center"> Développeur web Front End à Marseille </p>
-![fond Github Theneau Maxime](./images/fond.jpg "fond github Theneau Maxime")
+![fond Github Theneau Maxime](https://back.theneaumaxime.fr/public/images/webp/experiences-illustration.webp "fond github Theneau Maxime")
+
+# <p align="center"> Theneau Maxime <hr> </p>
+<p align="center"> Développeur web à Marseille </p>
 
 <p align="center">
   <a href="mailto:theneau.maxime@gmail.com" target="blank"><img  src="images/github/email.svg" alt="maximethe" height="30" width="30" /></a>
