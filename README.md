@@ -4,7 +4,7 @@ Certifié développeur web après ma formation chez O'clock. Spécialisé en Rea
 
 - [Twitter](https://twitter.com/maximeth)
 - [LinkedIn](https://www.linkedin.com/in/maxime-theneau/)
-- [TheneauMaxime.fr](https://maxime-theneau.fr)
+- [TheneauMaxime.fr](https://TheneauMaxime.fr)
 
 
 
