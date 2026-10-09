@@ -1,8 +1,15 @@
-# Maxime THENEAU
+# 👋 Développeur Web Fullstack basé à Marseille
 
-Certifié développeur web après ma formation chez O'clock. Spécialisé en React.js, Next.js et Symfony. Expérience dans la création de boutiques en ligne. À la recherche de nouvelles opportunités pour élargir mes compétences. Basé à Marseille. Contactez-moi pour en savoir plus.
+Je conçois et développe des applications web robustes et des sites performants avec :
+• Backend : PHP, Symfony, Doctrine, EasyAdmin
+• Frontend : React, JavaScript
+• Outils : Docker, Git, CI/CD, AWS S3, Cloudinary
 
-- [MaximeFreelance.fr](https://maximefreelance.fr)
+Expérience récente sur le projet France Rénov’ (application d’utilité publique) : 
+refonte d’authentification, interfaces d’administration et intégration d’API.
 
+Actuellement en freelance, je suis également ouvert aux opportunités en CDI 
+(remote, hybride ou sur Marseille).
 
-
+🔗 Site : https://MaximeFreelance.fr
+📧 Contact : Maxime@MaximeFreelance.fr
